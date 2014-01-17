@@ -1,4 +1,0 @@
-ISSample
-========
-
-Ideal solution Sample
